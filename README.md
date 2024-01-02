@@ -17,12 +17,12 @@ Selesai.
 
 Fitur Aplikasi :
 
-Login Multi User
-Data Pasien
-Data Dokter
-Data Obat
-Data Pendaftaran
-Data Pembayaran
-Laporan-laporan
-Logout
+Login Multi User,
+Data Pasien,
+Data Dokter,
+Data Obat,
+Data Pendaftaran,
+Data Pembayaran,
+Laporan-laporan,
+Logout,
 dan lainnya.
