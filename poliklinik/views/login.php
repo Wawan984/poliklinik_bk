@@ -21,7 +21,6 @@
 			<input type="password" name="pass" placeholder="Password" required="">
 			<input type="submit" name="login" value="Masuk" class="btn btn-success" style="margin: 10px 5px;">
 		</form>
-		<br><center><p style="color: white;">Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
 		
 	</div>
 </body>
